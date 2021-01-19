@@ -306,5 +306,49 @@
     "cargando": false,
     "explicit": false,
     "sanjuanino": true
+  },
+  {
+    "titulo": "Meando durante terremoto",
+    "descripcion": "sismo temblor terremoto paja durante terremoto paja en terremoto",
+    "url": "/assets/audios/terrepaja.mp3",
+    "duracion": 12,
+    "reproduciendo": false,
+    "cargando": false,
+    "explicit": false,
+    "sanjuanino": true,
+    "nuevo": true
+  },
+  {
+    "titulo": "Probando joystick en terremoto",
+    "descripcion": "joystick sismo terremoto",
+    "url": "/assets/audios/joystick.mp3",
+    "duracion": 8,
+    "reproduciendo": false,
+    "cargando": false,
+    "explicit": false,
+    "sanjuanino": true,
+    "nuevo": true
+  },
+  {
+    "titulo": "El amor a la bicha",
+    "descripcion": "Haciendo el amor durante terrmoto estaba haciendole el amor a la bicha perforando",
+    "url": "/assets/audios/sismoamor.mp3",
+    "duracion": 17,
+    "reproduciendo": false,
+    "cargando": false,
+    "explicit": false,
+    "sanjuanino": true,
+    "nuevo": true
+  },
+  {
+    "titulo": "Audio niñ@ durante terremoto",
+    "descripcion": "Audio niñ@ durante terremoto niño niña",
+    "url": "/assets/audios/temblor.mp3",
+    "duracion": 10,
+    "reproduciendo": false,
+    "cargando": false,
+    "explicit": false,
+    "sanjuanino": true,
+    "nuevo": true
   }
 ]
